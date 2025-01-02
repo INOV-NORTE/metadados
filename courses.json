@@ -38,8 +38,15 @@
         }
       ]
     },
-    "pedagogicalMethods": ["PBL", "Flipped Classroom"],
-    "activities": ["Quizzes", "Projetos práticos", "Discussões em grupo"],
+    "pedagogicalMethods": [
+      "PBL",
+      "Flipped Classroom"
+    ],
+    "activities": [
+      "Quizzes",
+      "Projetos práticos",
+      "Discussões em grupo"
+    ],
     "evaluation": {
       "criteria": "40% quizzes, 60% projeto final",
       "certification": "Certificado de Conclusão"
@@ -47,21 +54,36 @@
     "technicalDetails": {
       "format": "Online",
       "platform": "Moodle",
-      "requirements": ["Acesso à internet", "Editor de código (ex.: VSCode)"]
+      "requirements": [
+        "Acesso à internet",
+        "Editor de código (ex.: VSCode)"
+      ]
     },
     "inclusivity": {
-      "accessibilityFeatures": ["Legendas nos vídeos", "Material alternativo para pessoas com deficiência visual."]
+      "accessibilityFeatures": [
+        "Legendas nos vídeos",
+        "Material alternativo para pessoas com deficiência visual."
+      ]
     },
     "authorship": {
-      "instructors": ["João Santos", "Maria Almeida"],
+      "instructors": [
+        "João Santos",
+        "Maria Almeida"
+      ],
       "institution": "Politécnico do Porto"
     },
     "bibliography": "Livro: 'Python para Iniciantes' por João Silva",
     "schedule": "Segunda a Sexta, 18:00 às 21:00",
     "edition": "Edição 2025 - Inverno",
     "type": "MOOC",
-    "keywords": ["Python", "Programação", "Desenvolvimento de Software"],
-    "language": ["Português"],
+    "keywords": [
+      "Python",
+      "Programação",
+      "Desenvolvimento de Software"
+    ],
+    "language": [
+      "Português"
+    ],
     "credits": "3 ECTS",
     "startDate": "2025-02-01",
     "endDate": "2025-02-28",
@@ -94,9 +116,11 @@
     "maxParticipants": 30,
     "minParticipants": 10,
     "nParticipants": 15,
-    "coverPhoto": "https://example.com/cover-photo.jpg",
-    "detailPhoto": "https://example.com/detail-photo.jpg",
-    "videoThumbnail": "https://example.com/video-thumbnail.jpg",
-    "promoVideo": "https://example.com/promo-video.mp4"
+    "media": {
+      "coverPhoto": "https://example.com/cover-photo.jpg",
+      "detailPhoto": "https://example.com/detail-photo.jpg",
+      "videoThumbnail": "https://example.com/video-thumbnail.jpg",
+      "promoVideo": "https://example.com/promo-video.mp4"
+    }
   }
 }
