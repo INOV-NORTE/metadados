@@ -2,10 +2,11 @@
   "course": {
     "name": "Introdução à Programação em Python",
     "description": "Curso inicial para aprender a programar em Python, cobrindo os conceitos básicos e aplicações práticas.",
+    "summary": "## Objetivo do Curso\nEste curso visa introduzir os participantes ao mundo da programação utilizando Python, uma das linguagens de programação mais populares e versáteis atualmente. Vamos explorar desde os conceitos mais básicos até aplicações práticas que podem ser usadas no dia a dia ou em projetos mais complexos.\n\n## Sumário do Conteúdo\n\n1. **Introdução ao Python**\n   - O que é Python?\n   - Instalação e configuração do ambiente de desenvolvimento (IDE).\n   - Primeiros passos: \"Hello, World!\".\n\n2. **Conceitos Básicos**\n   - Sintaxe básica de Python.\n   - Variáveis e tipos de dados (inteiros, floats, strings, booleanos).\n   - Operadores aritméticos, lógicos e de comparação.\n\n3. **Estruturas de Controle**\n   - Estruturas condicionais (if, elif, else).\n   - Loops (for, while).\n   - Controle de fluxo (break, continue).\n\n4. **Funções**\n   - Definição e chamada de funções.\n   - Parâmetros e retorno de valores.\n   - Funções lambda e compreensão de listas.\n\n5. **Coleções de Dados**\n   - Listas, tuplas, conjuntos e dicionários.\n   - Manipulação de dados em coleções.\n   - Métodos e funções úteis para cada tipo de coleção.\n\n6. **Manipulação de Arquivos**\n   - Leitura e escrita em arquivos.\n   - Gerenciamento de contexto com `with`.\n\n7. **Módulos e Pacotes**\n   - Importação de módulos.\n   - Exploração de bibliotecas padrão (como math, random).\n   - Introdução ao uso de pacotes externos (pip).\n\n8. **Aplicações Práticas**\n   - Mini-projetos para consolidar o aprendizado:\n     - Criação de um jogo simples.\n     - Análise de dados básica.\n     - Automação de tarefas cotidianas.\n\n9. **Práticas de Programação**\n   - Estilo de código (PEP 8).\n   - Introdução ao controle de versão com Git.\n\n10. **Conclusão e Próximos Passos**\n    - Revisão dos conceitos aprendidos.\n    - Sugestões de recursos para continuar aprendendo.\n    - Discussão sobre oportunidades de carreira na programação com Python.",
     "courseID": "PYTHON101",
     "knowledgeArea": "Ciências Exatas e Tecnologias",
     "educationLevel": "Iniciação",
-    "duration": "40 horas",
+    "duration": 40,
     "objectives": {
       "general": "Capacitar os alunos a resolver problemas simples utilizando Python.",
       "specific": [
@@ -35,8 +36,7 @@
           "content": "Listas, dicionários, tuplos.",
           "hours": 8
         }
-      ],
-      "totalModules": 5
+      ]
     },
     "pedagogicalMethods": ["PBL", "Flipped Classroom"],
     "activities": ["Quizzes", "Projetos práticos", "Discussões em grupo"],
@@ -54,8 +54,7 @@
     },
     "authorship": {
       "instructors": ["João Santos", "Maria Almeida"],
-      "institution": "Politécnico do Porto",
-      "updatedOn": "2025-01-01"
+      "institution": "Politécnico do Porto"
     },
     "bibliography": "Livro: 'Python para Iniciantes' por João Silva",
     "schedule": "Segunda a Sexta, 18:00 às 21:00",
