@@ -1,0 +1,103 @@
+{
+  "course": {
+    "name": "Introdução à Programação em Python",
+    "description": "Curso inicial para aprender a programar em Python, cobrindo os conceitos básicos e aplicações práticas.",
+    "courseID": "PYTHON101",
+    "knowledgeArea": "Ciências Exatas e Tecnologias",
+    "educationLevel": "Iniciação",
+    "duration": "40 horas",
+    "objectives": {
+      "general": "Capacitar os alunos a resolver problemas simples utilizando Python.",
+      "specific": [
+        "Compreender a sintaxe básica do Python.",
+        "Criar programas que utilizem estruturas condicionais e ciclos.",
+        "Manipular ficheiros e dados com Python."
+      ]
+    },
+    "learningOutcomes": [
+      "Escrever scripts básicos em Python.",
+      "Utilizar bibliotecas para tarefas simples.",
+      "Desenvolver aplicações práticas."
+    ],
+    "targetAudience": {
+      "intendedFor": "Estudantes universitários e profissionais interessados em programação.",
+      "prerequisites": "Nenhuma experiência prévia necessária."
+    },
+    "structure": {
+      "modules": [
+        {
+          "name": "Introdução ao Python",
+          "content": "História, instalação, primeiros passos.",
+          "hours": 4
+        },
+        {
+          "name": "Estruturas de Dados",
+          "content": "Listas, dicionários, tuplos.",
+          "hours": 8
+        }
+      ],
+      "totalModules": 5
+    },
+    "pedagogicalMethods": ["PBL", "Flipped Classroom"],
+    "activities": ["Quizzes", "Projetos práticos", "Discussões em grupo"],
+    "evaluation": {
+      "criteria": "40% quizzes, 60% projeto final",
+      "certification": "Certificado de Conclusão"
+    },
+    "technicalDetails": {
+      "format": "Online",
+      "platform": "Moodle",
+      "requirements": ["Acesso à internet", "Editor de código (ex.: VSCode)"]
+    },
+    "inclusivity": {
+      "accessibilityFeatures": ["Legendas nos vídeos", "Material alternativo para pessoas com deficiência visual."]
+    },
+    "authorship": {
+      "instructors": ["João Santos", "Maria Almeida"],
+      "institution": "Politécnico do Porto",
+      "updatedOn": "2025-01-01"
+    },
+    "bibliography": "Livro: 'Python para Iniciantes' por João Silva",
+    "schedule": "Segunda a Sexta, 18:00 às 21:00",
+    "edition": "Edição 2025 - Inverno",
+    "type": "MOOC",
+    "keywords": ["Python", "Programação", "Desenvolvimento de Software"],
+    "language": ["Português"],
+    "credits": "3 ECTS",
+    "startDate": "2025-02-01",
+    "endDate": "2025-02-28",
+    "registrationLink": "https://example.com/inscricao",
+    "registrationStart": "2025-01-01",
+    "registrationEnd": "2025-01-30",
+    "cost": "Gratuito",
+    "rating": 4.8,
+    "testimonials": [
+      {
+        "name": "Carlos Pereira",
+        "feedback": "Ótimo curso para começar a aprender Python!"
+      },
+      {
+        "name": "Ana Costa",
+        "feedback": "Os módulos são bem estruturados e a interação prática foi muito útil."
+      }
+    ],
+    "organizer": "Politécnico do Porto - Departamento de Informática",
+    "resources": [
+      {
+        "title": "Documentação Oficial do Python",
+        "link": "https://docs.python.org"
+      },
+      {
+        "title": "Tutorial de Python para Iniciantes",
+        "link": "https://example.com/tutorial"
+      }
+    ],
+    "maxParticipants": 30,
+    "minParticipants": 10,
+    "nParticipants": 15,
+    "coverPhoto": "https://example.com/cover-photo.jpg",
+    "detailPhoto": "https://example.com/detail-photo.jpg",
+    "videoThumbnail": "https://example.com/video-thumbnail.jpg",
+    "promoVideo": "https://example.com/promo-video.mp4"
+  }
+}

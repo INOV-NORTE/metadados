@@ -1,0 +1,56 @@
+{
+  "bestPractice": {
+    "title": "Uso de Gamificação para Aumentar o Engajamento em Cursos Online",
+    "summary": "Introdução de elementos de gamificação em uma plataforma LMS para motivar os alunos e aumentar a taxa de conclusão.",
+    "category": "Educação Online",
+    "practiceID": "BP2025-GAMIF",
+    "keywords": ["Gamificação", "Educação Online", "Engajamento"],
+    "context": {
+      "scenario": "Plataforma LMS em cursos superiores",
+      "location": "Portugal",
+      "institutions": ["Politécnico do Porto"],
+      "implementationPeriod": "2022–2024",
+      "initialChallenge": "Baixa taxa de conclusão nos cursos online"
+    },
+    "description": {
+      "detailedDescription": "A prática utilizou badges para premiar metas alcançadas, tabelas de classificação para criar competição saudável e recompensas simbólicas para motivar os alunos.",
+      "mainObjective": "Melhorar a motivação e o desempenho dos alunos.",
+      "toolsUsed": ["Moodle", "Plug-ins de Gamificação"],
+      "implementationSteps": ["Planeamento", "Testes piloto", "Lançamento", "Avaliação"],
+      "stakeholders": ["Professores", "Estudantes", "Equipe Técnica"]
+    },
+    "results": {
+      "outcomes": "Aumento de 30% na taxa de conclusão dos cursos.",
+      "successIndicators": ["Engajamento diário", "Taxas de aprovação"],
+      "longTermImpact": "Aumento do interesse por cursos online",
+      "challenges": "Resistência inicial dos docentes"
+    },
+    "adaptation": {
+      "recommendedContexts": ["Cursos em plataformas LMS"],
+      "requiredResources": ["Orçamento, equipe técnica"],
+      "limitations": "Pode não funcionar em ambientes offline"
+    },
+    "lessonsLearned": {
+      "bestPractices": ["Incluir os alunos na escolha das metas"],
+      "mistakesToAvoid": ["Recompensas sem critérios claros"],
+      "futureSuggestions": ["Personalizar desafios com base no perfil do utilizador"]
+    },
+    "resources": {
+      "guides": ["Guia de implementação em Moodle"],
+      "relatedStudies": ["Artigo sobre gamificação em educação"],
+      "multimedia": ["screenshot1.png", "screenshot2.png"],
+      "links": ["https://moodle.org/plugins/gamification"]
+    },
+    "evaluation": {
+      "effectiveness": "A prática demonstrou alta eficácia na motivação.",
+      "feedback": "Feedback positivo de professores e alunos.",
+      "futureRecommendations": "Expandir a prática para outros contextos educativos"
+    },
+    "authorship": {
+      "authors": ["Dr. Maria Silva"],
+      "institution": "Politécnico do Porto",
+      "creationDate": "2023-01-01",
+      "lastUpdated": "2025-01-02"
+    }
+  }
+}

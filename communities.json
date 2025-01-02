@@ -1,0 +1,52 @@
+{
+  "community": {
+    "name": "Inovação Pedagógica no Ensino Superior",
+    "description": "Comunidade focada em partilhar boas práticas e estratégias inovadoras em ensino-aprendizagem.",
+    "id": "INN_PED_2025",
+    "knowledgeArea": "Educação",
+    "language": "Português",
+    "targetAudience": "Professores universitários e investigadores",
+    "objectives": {
+      "general": "Promover a partilha de boas práticas em ensino-aprendizagem.",
+      "specific": [
+        "Fomentar a colaboração interdisciplinar.",
+        "Explorar novas tecnologias educacionais.",
+        "Criar recursos pedagógicos compartilhados."
+      ],
+      "expectedOutcomes": [
+        "Webinars gravados.",
+        "Guia de boas práticas.",
+        "Repositório de recursos."
+      ]
+    },
+    "organization": {
+      "participationFormat": "Fóruns e grupos de trabalho.",
+      "governanceStructure": "Moderadores e facilitadores.",
+      "activityFrequency": "Discussões semanais, reuniões mensais.",
+      "communicationChannels": ["Slack", "Zoom", "Email"]
+    },
+    "members": {
+      "currentCount": 150,
+      "roles": ["Membro regular", "Moderador", "Coordenador"],
+      "profile": ["Nome", "Área de especialização", "Instituição", "País"]
+    },
+    "activities": {
+      "types": ["Discussões", "Webinars", "Workshops"],
+      "interactionTools": ["Fóruns de discussão", "Videoconferências", "Chats"],
+      "engagementMechanisms": ["Gamificação", "Prêmios por participação ativa"]
+    },
+    "resources": {
+      "sharedTypes": ["Artigos", "Relatórios", "Apresentações"],
+      "knowledgeRepositories": ["GitHub", "Google Drive"]
+    },
+    "accessibility": {
+      "features": ["Traduções automáticas", "Opções de texto alternativo"],
+      "support": ["Guias de utilização", "Tutoriais para novos membros"]
+    },
+    "evaluation": {
+      "successIndicators": ["Participação ativa", "Impacto dos recursos"],
+      "feedbackMechanisms": ["Satisfação dos membros", "Sugestões de melhoria"],
+      "periodicReports": ["Estatísticas de engajamento", "Impacto mensurado"]
+    }
+  }
+}

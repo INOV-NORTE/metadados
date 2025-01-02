@@ -1,0 +1,59 @@
+{
+  "caseStudy": {
+    "title": "Implementação de IA no Ensino Médio",
+    "summary": "Estudo sobre a utilização de inteligência artificial para personalizar a aprendizagem em escolas de áreas rurais.",
+    "applicationArea": "Educação",
+    "mainTheme": "IA na Educação",
+    "caseID": "EDUAI2025",
+    "context": {
+      "scenario": "Escolas rurais em Portugal",
+      "timePeriod": "2023-2024",
+      "location": "Alentejo, Portugal",
+      "institutions": ["Politécnico do Porto", "Ministério da Educação"]
+    },
+    "details": {
+      "description": "O projeto envolveu a implementação de sistemas baseados em IA para personalizar conteúdos de aprendizagem, identificando as necessidades específicas de cada estudante.",
+      "objectives": "Melhorar o desempenho académico em 20%",
+      "challenge": "Baixa motivação e desempenho em disciplinas de STEM",
+      "strategies": ["Formação de professores", "Introdução de ferramentas de IA"]
+    },
+    "methodology": {
+      "studyType": "Estudo de campo",
+      "dataCollected": "Resultados de exames, entrevistas com professores e alunos",
+      "dataSources": "Relatórios escolares, questionários",
+      "techniques": ["Análise de dados educacionais, workshops colaborativos"]
+    },
+    "results": {
+      "outcomes": "Aumento de 25% no desempenho médio em Matemática",
+      "successIndicators": ["Melhoria de notas, maior envolvimento em atividades de STEM"],
+      "longTermImpact": "Preparação dos alunos para carreiras tecnológicas",
+      "challenges": "Falta de recursos para treinamento contínuo"
+    },
+    "lessonsLearned": {
+      "keyTakeaways": ["Investir em formação contínua para professores", "Adaptar estratégias ao contexto local"],
+      "bestPractices": ["Uso de IA para personalizar o ensino", "Envolvimento ativo dos professores"],
+      "improvementsSuggested": "Maior suporte financeiro e técnico"
+    },
+    "applicability": {
+      "relevantSectors": ["Educação pública, Organizações sem fins lucrativos"],
+      "contextualAdaptation": "Necessita de conectividade de internet estável",
+      "limitations": "Restrito a escolas com infraestrutura tecnológica básica"
+    },
+    "resources": {
+      "associatedResources": ["Relatório final do projeto", "Gráficos de desempenho"],
+      "photos": ["imagem1.jpg", "imagem2.jpg"],
+      "references": ["Artigo X sobre IA na Educação", "Publicação Y sobre personalização de aprendizagem"]
+    },
+    "evaluation": {
+      "guidingQuestions": ["Como replicar o modelo em contextos urbanos?", "Que ferramentas adicionais poderiam ser utilizadas?"],
+      "relatedActivities": ["Análise de impacto, Discussão de grupo"],
+      "feedback": "Membros da equipe sugeriram maior envolvimento dos pais."
+    },
+    "authorship": {
+      "authors": ["Dr. João Silva", "Prof. Maria Pereira"],
+      "creationDate": "2025-01-01",
+      "lastUpdated": "2025-01-02",
+      "responsibleInstitution": "Politécnico do Porto"
+    }
+  }
+}
