@@ -30,6 +30,6 @@ Metadados sobre ferramentas tecnológicas pedagógicas úteis em ambientes de en
 ## 👥 Contribuidores
 
 Este repositório foi criado e é mantido por:  
-- **[Erika Ribeiro](https://github.com/erika-username)** – Contribuição principal para metadados e análise comparativa.  
+- **Erika Ribeiro** – Contribuição principal para metadados e análise comparativa.  
 - **[José Paiva](https://github.com/josepaiva94)** – Revisão técnica e validação dos exemplos JSON.  
 - **[Ricardo Queirós](https://github.com/rqueiros)** – Coordenação do projeto e estrutura dos metadados.  
