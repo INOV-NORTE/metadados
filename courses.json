@@ -65,13 +65,11 @@
         "Material alternativo para pessoas com deficiência visual."
       ]
     },
-    "authorship": {
-      "instructors": [
-        "João Santos",
-        "Maria Almeida"
-      ],
-      "institution": "Politécnico do Porto"
-    },
+    "instructors": [
+      "João Santos",
+      "Maria Almeida"
+    ],
+    "institution": "Politécnico do Porto",
     "bibliography": "Livro: 'Python para Iniciantes' por João Silva",
     "schedule": "Segunda a Sexta, 18:00 às 21:00",
     "edition": "Edição 2025 - Inverno",
@@ -81,7 +79,7 @@
       "Programação",
       "Desenvolvimento de Software"
     ],
-    "language": [
+    "languages": [
       "Português"
     ],
     "credits": "3 ECTS",
