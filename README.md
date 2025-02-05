@@ -24,7 +24,7 @@ Metadados sobre comunidades de prática, incluindo objetivos, membros e atividad
 ### 4. **`courses.json`**  
 Detalhes sobre cursos disponíveis, como título, descrição, público-alvo e conteúdos multimédia associados.
 
-[Visualizar](https://jsonhero.io/j/6wERdZCyIj41)
+[Visualizar](https://jsonhero.io/j/Mn6ilAbegvl3)
 
 ### 5. **`pedagogicalMethods.json`**  
 Descreve métodos pedagógicos aplicados, com exemplos concretos e links para recursos associados.
