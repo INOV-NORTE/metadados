@@ -3,9 +3,8 @@
     "name": "Introdução à Programação em Python",
     "description": "Curso inicial para aprender a programar em Python, cobrindo os conceitos básicos e aplicações práticas.",
     "summary": "## Objetivo do Curso\nEste curso visa introduzir os participantes ao mundo da programação utilizando Python, uma das linguagens de programação mais populares e versáteis atualmente. Vamos explorar desde os conceitos mais básicos até aplicações práticas que podem ser usadas no dia a dia ou em projetos mais complexos.\n\n## Sumário do Conteúdo\n\n1. **Introdução ao Python**\n   - O que é Python?\n   - Instalação e configuração do ambiente de desenvolvimento (IDE).\n   - Primeiros passos: \"Hello, World!\".\n\n2. **Conceitos Básicos**\n   - Sintaxe básica de Python.\n   - Variáveis e tipos de dados (inteiros, floats, strings, booleanos).\n   - Operadores aritméticos, lógicos e de comparação.\n\n3. **Estruturas de Controle**\n   - Estruturas condicionais (if, elif, else).\n   - Loops (for, while).\n   - Controle de fluxo (break, continue).\n\n4. **Funções**\n   - Definição e chamada de funções.\n   - Parâmetros e retorno de valores.\n   - Funções lambda e compreensão de listas.\n\n5. **Coleções de Dados**\n   - Listas, tuplas, conjuntos e dicionários.\n   - Manipulação de dados em coleções.\n   - Métodos e funções úteis para cada tipo de coleção.\n\n6. **Manipulação de Arquivos**\n   - Leitura e escrita em arquivos.\n   - Gerenciamento de contexto com `with`.\n\n7. **Módulos e Pacotes**\n   - Importação de módulos.\n   - Exploração de bibliotecas padrão (como math, random).\n   - Introdução ao uso de pacotes externos (pip).\n\n8. **Aplicações Práticas**\n   - Mini-projetos para consolidar o aprendizado:\n     - Criação de um jogo simples.\n     - Análise de dados básica.\n     - Automação de tarefas cotidianas.\n\n9. **Práticas de Programação**\n   - Estilo de código (PEP 8).\n   - Introdução ao controle de versão com Git.\n\n10. **Conclusão e Próximos Passos**\n    - Revisão dos conceitos aprendidos.\n    - Sugestões de recursos para continuar aprendendo.\n    - Discussão sobre oportunidades de carreira na programação com Python.",
-    "courseID": "PYTHON101",
-    "knowledgeArea": "Ciências Exatas e Tecnologias",
-    "educationLevel": "Iniciação",
+    "knowledge_area": "Ciências Exatas e Tecnologias",
+    "education_level": "Iniciação",
     "duration": 40,
     "objectives": {
       "general": "Capacitar os alunos a resolver problemas simples utilizando Python.",
@@ -15,13 +14,13 @@
         "Manipular ficheiros e dados com Python."
       ]
     },
-    "learningOutcomes": [
+    "learning_outcomes": [
       "Escrever scripts básicos em Python.",
       "Utilizar bibliotecas para tarefas simples.",
       "Desenvolver aplicações práticas."
     ],
-    "targetAudience": {
-      "intendedFor": "Estudantes universitários e profissionais interessados em programação.",
+    "target_audience": {
+      "intended_for": "Estudantes universitários e profissionais interessados em programação.",
       "prerequisites": "Nenhuma experiência prévia necessária."
     },
     "structure": {
@@ -38,56 +37,37 @@
         }
       ]
     },
-    "pedagogicalMethods": [
-      "PBL",
-      "Flipped Classroom"
-    ],
-    "activities": [
-      "Quizzes",
-      "Projetos práticos",
-      "Discussões em grupo"
-    ],
+    "pedagogical_methods": ["PBL", "Flipped Classroom"],
+    "activities": ["Quizzes", "Projetos práticos", "Discussões em grupo"],
     "evaluation": {
       "criteria": "40% quizzes, 60% projeto final",
       "certification": "Certificado de Conclusão"
     },
-    "technicalDetails": {
+    "technical_details": {
       "format": "Online",
       "platform": "Moodle",
-      "requirements": [
-        "Acesso à internet",
-        "Editor de código (ex.: VSCode)"
-      ]
+      "requirements": ["Acesso à internet", "Editor de código (ex.: VSCode)"]
     },
     "inclusivity": {
-      "accessibilityFeatures": [
+      "accessibility_features": [
         "Legendas nos vídeos",
         "Material alternativo para pessoas com deficiência visual."
       ]
     },
-    "instructors": [
-      "João Santos",
-      "Maria Almeida"
-    ],
+    "instructors": ["João Santos", "Maria Almeida"],
     "institution": "Politécnico do Porto",
     "bibliography": "Livro: 'Python para Iniciantes' por João Silva",
     "schedule": "Segunda a Sexta, 18:00 às 21:00",
     "edition": "Edição 2025 - Inverno",
     "type": "MOOC",
-    "keywords": [
-      "Python",
-      "Programação",
-      "Desenvolvimento de Software"
-    ],
-    "languages": [
-      "Português"
-    ],
+    "keywords": ["Python", "Programação", "Desenvolvimento de Software"],
+    "languages": ["Português"],
     "credits": "3 ECTS",
-    "startDate": "2025-02-01",
-    "endDate": "2025-02-28",
-    "registrationLink": "https://example.com/inscricao",
-    "registrationStart": "2025-01-01",
-    "registrationEnd": "2025-01-30",
+    "start_date": "2025-02-01",
+    "end_date": "2025-02-28",
+    "registration_link": "https://example.com/inscricao",
+    "registration_start": "2025-01-01",
+    "registration_end": "2025-01-30",
     "cost": "Gratuito",
     "rating": 4.8,
     "testimonials": [
@@ -111,14 +91,16 @@
         "link": "https://example.com/tutorial"
       }
     ],
-    "maxParticipants": 30,
-    "minParticipants": 10,
-    "nParticipants": 15,
+    "max_participants": 30,
+    "min_participants": 10,
+    "n_participants": 15,
     "media": {
-      "coverPhoto": "https://example.com/cover-photo.jpg",
-      "detailPhoto": "https://example.com/detail-photo.jpg",
-      "videoThumbnail": "https://example.com/video-thumbnail.jpg",
-      "promoVideo": "https://example.com/promo-video.mp4"
-    }
+      "cover_photo": "https://example.com/cover-photo.jpg",
+      "detail_photo": "https://example.com/detail-photo.jpg",
+      "video_thumbnail": "https://example.com/video-thumbnail.jpg",
+      "promo_video": "https://example.com/promo-video.mp4"
+    },
+    "created_at": "2023-01-01",
+    "updated_at": "2025-01-02"
   }
 }

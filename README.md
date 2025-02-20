@@ -19,27 +19,27 @@ Inclui estudos de caso que ilustram aplicações práticas e histórias de suces
 ### 3. **`communities.json`**  
 Metadados sobre comunidades de prática, incluindo objetivos, membros e atividades.
 
-[Visualizar](https://jsonhero.io/j/6vTvPQ9YhQs2)
+[Visualizar](https://jsonhero.io/j/4wfd6UtH1KA1)
 
 ### 4. **`courses.json`**  
 Detalhes sobre cursos disponíveis, como título, descrição, público-alvo e conteúdos multimédia associados.
 
-[Visualizar](https://jsonhero.io/j/5dyRtKGEvRSs)
+[Visualizar](https://jsonhero.io/j/83omKJByMBFC)
 
 ### 5. **`pedagogicalMethods.json`**  
 Descreve métodos pedagógicos aplicados, com exemplos concretos e links para recursos associados.
 
-[Visualizar](https://jsonhero.io/j/iboHrPxcyQdA)
+[Visualizar](https://jsonhero.io/j/TxfXU5iGO2rS)
 
 ### 6. **`resources.json`**  
 Lista de recursos educacionais de apoio, como artigos, vídeos, ferramentas e guias.
 
-[Visualizar](https://jsonhero.io/j/8ZmYhGozBvrJ)
+[Visualizar](https://jsonhero.io/j/Bi4K6WrKoc9e)
 
 ### 7. **`tools.json`**  
 Metadados sobre ferramentas tecnológicas pedagógicas úteis em ambientes de ensino-aprendizagem, com descrição, propósito e links.
 
-[Visualizar](https://jsonhero.io/j/1saSNYJ41Xea)
+[Visualizar](https://jsonhero.io/j/WeseEKnZF3TT)
 
 ## 👥 Contribuidores
 

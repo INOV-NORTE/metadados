@@ -1,5 +1,5 @@
 {
-  "method": {
+  "pedagogical_method": {
     "name": "Problem-Based Learning (PBL)",
     "description": "Método pedagógico baseado na resolução de problemas reais para promover a aprendizagem ativa.",
     "type": "Baseado em Problemas",
@@ -39,6 +39,8 @@
     "references": [
       "Barrows, H. (1986). Problem-Based Learning in Medicine.",
       "Publicações sobre PBL na educação superior."
-    ]
+    ],
+    "created_at": "2023-01-01",
+    "updated_at": "2025-01-02"
   }
 }

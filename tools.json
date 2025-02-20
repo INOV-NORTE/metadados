@@ -29,6 +29,8 @@
       "Competição entre alunos para reforçar conceitos aprendidos."
     ],
     "official_website": "https://kahoot.com",
-    "resources": ["Guias de utilização no site oficial"]
+    "resources": ["Guias de utilização no site oficial"],
+    "created_at": "2023-01-01",
+    "updated_at": "2025-01-02"
   }
 }
