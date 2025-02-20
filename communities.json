@@ -2,10 +2,9 @@
   "community": {
     "name": "Inovação Pedagógica no Ensino Superior",
     "description": "Comunidade focada em partilhar boas práticas e estratégias inovadoras em ensino-aprendizagem.",
-    "id": "INN_PED_2025",
-    "knowledgeArea": "Educação",
+    "knowledge_area": "Educação",
     "language": "Português",
-    "targetAudience": "Professores universitários e investigadores",
+    "target_audience": "Professores universitários e investigadores",
     "objectives": {
       "general": "Promover a partilha de boas práticas em ensino-aprendizagem.",
       "specific": [
@@ -13,40 +12,40 @@
         "Explorar novas tecnologias educacionais.",
         "Criar recursos pedagógicos compartilhados."
       ],
-      "expectedOutcomes": [
+      "expected_outcomes": [
         "Webinars gravados.",
         "Guia de boas práticas.",
         "Repositório de recursos."
       ]
     },
     "organization": {
-      "participationFormat": "Fóruns e grupos de trabalho.",
-      "governanceStructure": "Moderadores e facilitadores.",
-      "activityFrequency": "Discussões semanais, reuniões mensais.",
-      "communicationChannels": ["Slack", "Zoom", "Email"]
+      "participation_format": "Fóruns e grupos de trabalho.",
+      "governance_structure": "Moderadores e facilitadores.",
+      "activity_frequency": "Discussões semanais, reuniões mensais.",
+      "communication_channels": ["Slack", "Zoom", "Email"]
     },
     "members": {
-      "currentCount": 150,
+      "current_count": 150,
       "roles": ["Membro regular", "Moderador", "Coordenador"],
       "profile": ["Nome", "Área de especialização", "Instituição", "País"]
     },
     "activities": {
       "types": ["Discussões", "Webinars", "Workshops"],
-      "interactionTools": ["Fóruns de discussão", "Videoconferências", "Chats"],
-      "engagementMechanisms": ["Gamificação", "Prêmios por participação ativa"]
+      "interaction_tools": ["Fóruns de discussão", "Videoconferências", "Chats"],
+      "engagement_mechanisms": ["Gamificação", "Prêmios por participação ativa"]
     },
     "resources": {
-      "sharedTypes": ["Artigos", "Relatórios", "Apresentações"],
-      "knowledgeRepositories": ["GitHub", "Google Drive"]
+      "shared_types": ["Artigos", "Relatórios", "Apresentações"],
+      "knowledge_repositories": ["GitHub", "Google Drive"]
     },
     "accessibility": {
       "features": ["Traduções automáticas", "Opções de texto alternativo"],
       "support": ["Guias de utilização", "Tutoriais para novos membros"]
     },
     "evaluation": {
-      "successIndicators": ["Participação ativa", "Impacto dos recursos"],
-      "feedbackMechanisms": ["Satisfação dos membros", "Sugestões de melhoria"],
-      "periodicReports": ["Estatísticas de engajamento", "Impacto mensurado"]
+      "success_indicators": ["Participação ativa", "Impacto dos recursos"],
+      "feedback_mechanisms": ["Satisfação dos membros", "Sugestões de melhoria"],
+      "periodic_reports": ["Estatísticas de engajamento", "Impacto mensurado"]
     }
   }
 }

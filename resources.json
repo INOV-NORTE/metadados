@@ -4,44 +4,50 @@
     "description": "Recurso educativo sobre ecossistemas terrestres e aquáticos, com explicações teóricas e atividades práticas.",
     "type": "Texto",
     "format": "PDF",
-    "educationalPurpose": {
-      "objective": "Compreender o funcionamento dos ecossistemas e a sua importância.",
-      "targetAudience": "Estudantes do 10.º ano",
-      "educationLevel": "Secundário",
-      "knowledgeArea": "Ciências Naturais"
-    },
-    "content": {
-      "topics": ["Cadeias alimentares", "Ciclos biogeoquímicos", "Biodiversidade"],
-      "taxonomyLevel": "Compreender",
-      "structure": ["Introdução", "Capítulo 1: Ecossistemas", "Capítulo 2: Biodiversidade", "Atividades"]
-    },
-    "technicalDetails": {
-      "compatibility": ["PC", "Tablet", "Smartphone"],
-      "size": "12 MB",
-      "language": ["Português"],
-      "requirements": "Adobe Reader"
-    },
-    "usage": {
-      "applicationMode": "Autoestudo ou apoio em sala de aula",
-      "pedagogicalMethods": ["Aprendizagem Baseada em Problemas"],
-      "relatedActivities": ["Resolver questões de avaliação", "Discussões em grupo"]
-    },
-    "evaluation": {
-      "benefits": ["Facilita a compreensão de conceitos complexos", "Apoia o trabalho autónomo"],
-      "limitations": ["Requer dispositivos eletrónicos para acesso"]
-    },
-    "inclusivity": {
-      "adaptations": ["Legendas nas figuras", "Texto alternativo para imagens"],
-      "accessibilityFeatures": "Compatível com leitores de ecrã"
-    },
-    "authorship": {
-      "authors": ["Maria Silva", "João Pereira"],
-      "organization": "Editora Educação para Todos",
-      "license": "Creative Commons - Atribuição"
-    },
-    "references": {
-      "originalSource": "https://educacao-para-todos.com/manual-ecossistemas",
-      "relatedResources": ["Simulação interativa de ecossistemas", "Vídeo sobre biodiversidade"]
-    }
+    "knowledge_area": "Ciências Naturais",
+    "education_level": "Secundário",
+    "objectives": [
+      "Compreender o funcionamento dos ecossistemas",
+      "Identificar a importância da biodiversidade",
+      "Analisar os impactos das atividades humanas nos ecossistemas"
+    ],
+    "target_groups": ["Estudantes do 10.º ano"],
+    "topics": [
+      "Cadeias alimentares",
+      "Ciclos biogeoquímicos",
+      "Biodiversidade"
+    ],
+    "taxonomy_level": "Compreender",
+    "structure": [
+      "Introdução",
+      "Capítulo 1: Ecossistemas",
+      "Capítulo 2: Biodiversidade",
+      "Atividades"
+    ],
+    "compatibility": ["PC", "Tablet", "Smartphone"],
+    "size": "12 MB",
+    "language": ["Português"],
+    "requirements": "Adobe Reader",
+    "usage_mode": "Autoestudo ou apoio em sala de aula",
+    "pedagogical_methods": ["Aprendizagem Baseada em Problemas"],
+    "related_activities": [
+      "Resolver questões de avaliação",
+      "Discussões em grupo"
+    ],
+    "benefits": [
+      "Facilita a compreensão de conceitos complexos",
+      "Apoia o trabalho autónomo"
+    ],
+    "limitations": ["Requer dispositivos eletrónicos para acesso"],
+    "adaptations": ["Legendas nas figuras", "Texto alternativo para imagens"],
+    "accessibility": ["Compatível com leitores de ecrã"],
+    "authors": ["Maria Silva", "João Pereira"],
+    "organization": "Editora Educação para Todos",
+    "license": "Creative Commons - Atribuição",
+    "original_source": "https://educacao-para-todos.com/manual-ecossistemas",
+    "related_resources": [
+      "Simulação interativa de ecossistemas",
+      "Vídeo sobre biodiversidade"
+    ]
   }
 }

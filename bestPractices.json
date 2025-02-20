@@ -1,56 +1,55 @@
 {
-  "bestPractice": {
+  "best_practice": {
     "title": "Uso de Gamificação para Aumentar o Engajamento em Cursos Online",
     "summary": "Introdução de elementos de gamificação em uma plataforma LMS para motivar os alunos e aumentar a taxa de conclusão.",
     "category": "Educação Online",
-    "practiceID": "BP2025-GAMIF",
     "keywords": ["Gamificação", "Educação Online", "Engajamento"],
     "context": {
       "scenario": "Plataforma LMS em cursos superiores",
+      "initial_challenge": "Baixa taxa de conclusão nos cursos online",
       "location": "Portugal",
-      "institutions": ["Politécnico do Porto"],
-      "implementationPeriod": "2022–2024",
-      "initialChallenge": "Baixa taxa de conclusão nos cursos online"
+      "implementation_institutions": ["Politécnico do Porto"],
+      "implementation_period": "2022–2024"
     },
     "description": {
-      "detailedDescription": "A prática utilizou badges para premiar metas alcançadas, tabelas de classificação para criar competição saudável e recompensas simbólicas para motivar os alunos.",
-      "mainObjective": "Melhorar a motivação e o desempenho dos alunos.",
-      "toolsUsed": ["Moodle", "Plug-ins de Gamificação"],
-      "implementationSteps": ["Planeamento", "Testes piloto", "Lançamento", "Avaliação"],
+      "detailed_description": "A prática utilizou badges para premiar metas alcançadas, tabelas de classificação para criar competição saudável e recompensas simbólicas para motivar os alunos.",
+      "main_objective": "Melhorar a motivação e o desempenho dos alunos.",
+      "tools_used": ["Moodle", "Plug-ins de Gamificação"],
+      "implementation_steps": ["Planeamento", "Testes piloto", "Lançamento", "Avaliação"],
       "stakeholders": ["Professores", "Estudantes", "Equipe Técnica"]
     },
     "results": {
-      "outcomes": "Aumento de 30% na taxa de conclusão dos cursos.",
-      "successIndicators": ["Engajamento diário", "Taxas de aprovação"],
-      "longTermImpact": "Aumento do interesse por cursos online",
-      "challenges": "Resistência inicial dos docentes"
+      "outcomes": ["Aumento de 30% na taxa de conclusão dos cursos."],
+      "success_indicators": ["Engajamento diário", "Taxas de aprovação"],
+      "long_term_impact": "Aumento do interesse por cursos online",
+      "challenges": ["Resistência inicial dos docentes"]
     },
     "adaptation": {
-      "recommendedContexts": ["Cursos em plataformas LMS"],
-      "requiredResources": ["Orçamento, equipe técnica"],
-      "limitations": "Pode não funcionar em ambientes offline"
+      "recommended_contexts": ["Cursos em plataformas LMS"],
+      "requirements": ["Orçamento, equipe técnica"],
+      "limitations": ["Pode não funcionar em ambientes offline"]
     },
-    "lessonsLearned": {
-      "bestPractices": ["Incluir os alunos na escolha das metas"],
-      "mistakesToAvoid": ["Recompensas sem critérios claros"],
-      "futureSuggestions": ["Personalizar desafios com base no perfil do utilizador"]
+    "lessons_learned": {
+      "recommendations": ["Incluir os alunos na escolha das metas"],
+      "mistakes_to_avoid": ["Recompensas sem critérios claros"],
+      "future_steps": ["Personalizar desafios com base no perfil do utilizador"]
     },
     "resources": {
       "guides": ["Guia de implementação em Moodle"],
-      "relatedStudies": ["Artigo sobre gamificação em educação"],
+      "related_studies": ["Artigo sobre gamificação em educação"],
       "multimedia": ["screenshot1.png", "screenshot2.png"],
       "links": ["https://moodle.org/plugins/gamification"]
     },
     "evaluation": {
       "effectiveness": "A prática demonstrou alta eficácia na motivação.",
       "feedback": "Feedback positivo de professores e alunos.",
-      "futureRecommendations": "Expandir a prática para outros contextos educativos"
+      "future_recommendations": "Expandir a prática para outros contextos educativos"
     },
     "authorship": {
       "authors": ["Dr. Maria Silva"],
-      "institution": "Politécnico do Porto",
-      "creationDate": "2023-01-01",
-      "lastUpdated": "2025-01-02"
-    }
+      "institution": "Politécnico do Porto"
+    },
+    "created_at": "2023-01-01",
+    "updated_at": "2025-01-02"
   }
 }

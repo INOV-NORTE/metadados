@@ -4,43 +4,31 @@
     "description": "Plataforma de gamificação para criar quizzes interativos.",
     "category": "Gamificação",
     "type": "Aplicação Web",
-    "purpose": {
-      "primary": "Avaliação formativa através de quizzes interativos.",
-      "audience": ["Professores", "Estudantes"],
-      "applicationAreas": ["Ensino Básico", "Ensino Superior"],
-      "pedagogicalMethods": ["Gamificação", "Aprendizagem Ativa"]
-    },
+    "purpose": "Avaliação formativa através de quizzes interativos.",
+    "audience": ["Professores", "Estudantes"],
+    "application_areas": ["Ensino Básico", "Ensino Superior"],
+    "pedagogical_methods": ["Gamificação", "Aprendizagem Ativa"],
     "features": [
       "Criação de quizzes personalizados",
       "Relatórios de desempenho",
       "Modo ao vivo e individual"
     ],
-    "technicalDetails": {
-      "platforms": ["Web", "iOS", "Android"],
-      "requirements": "Navegadores modernos e ligação à internet",
-      "licensing": "Freemium",
-      "languages": ["Inglês", "Português", "Espanhol"]
-    },
-    "dataPrivacy": {
-      "dataStorage": "Cloud",
-      "GDPRCompliant": true,
-      "security": ["Encriptação de dados", "Autenticação segura"]
-    },
-    "evaluation": {
-      "benefits": ["Aumento do envolvimento dos estudantes", "Feedback instantâneo"],
-      "limitations": ["Requer acesso contínuo à internet"]
-    },
-    "support": {
-      "documentation": "FAQs, vídeos tutoriais no site oficial",
-      "technicalSupport": ["Chat ao vivo", "E-mail"]
-    },
-    "useCases": [
+    "platforms": ["Web", "iOS", "Android"],
+    "requirements": ["Navegadores modernos e ligação à internet"],
+    "license": "MIT",
+    "languages": ["Inglês", "Português", "Espanhol"],
+    "data_storage": "Cloud",
+    "gdpr_compliance": true,
+    "data_encryption": true,
+    "2fa": true,
+    "other_security_measures": ["Autenticação segura"],
+    "documentation": "FAQs, vídeos tutoriais no site oficial",
+    "technical_support_channels": ["Chat ao vivo", "E-mail"],
+    "use_cases": [
       "Utilização em sala de aula para revisar conteúdos.",
       "Competição entre alunos para reforçar conceitos aprendidos."
     ],
-    "references": {
-      "officialWebsite": "https://kahoot.com",
-      "resources": ["Guias de utilização no site oficial"]
-    }
+    "official_website": "https://kahoot.com",
+    "resources": ["Guias de utilização no site oficial"]
   }
 }
