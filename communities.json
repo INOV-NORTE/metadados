@@ -3,7 +3,7 @@
     "name": "Inovação Pedagógica no Ensino Superior",
     "description": "Comunidade focada em partilhar boas práticas e estratégias inovadoras em ensino-aprendizagem.",
     "knowledge_area": "Educação",
-    "language": "Português",
+    "languages": ["Português"],
     "target_groups": ["Professores universitários", "Investigadores"],
     "objectives": {
       "general": "Promover a partilha de boas práticas em ensino-aprendizagem.",
