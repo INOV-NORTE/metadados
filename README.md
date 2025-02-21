@@ -19,7 +19,7 @@ Inclui estudos de caso que ilustram aplicações práticas e histórias de suces
 ### 3. **`communities.json`**  
 Metadados sobre comunidades de prática, incluindo objetivos, membros e atividades.
 
-[Visualizar](https://jsonhero.io/j/4wfd6UtH1KA1)
+[Visualizar](https://jsonhero.io/j/wmixVKHChJCN)
 
 ### 4. **`courses.json`**  
 Detalhes sobre cursos disponíveis, como título, descrição, público-alvo e conteúdos multimédia associados.

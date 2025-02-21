@@ -4,7 +4,7 @@
     "description": "Comunidade focada em partilhar boas práticas e estratégias inovadoras em ensino-aprendizagem.",
     "knowledge_area": "Educação",
     "language": "Português",
-    "target_audience": "Professores universitários e investigadores",
+    "target_groups": ["Professores universitários", "Investigadores"],
     "objectives": {
       "general": "Promover a partilha de boas práticas em ensino-aprendizagem.",
       "specific": [
@@ -19,24 +19,19 @@
       ]
     },
     "organization": {
-      "participation_format": "Fóruns e grupos de trabalho.",
       "governance_structure": "Moderadores e facilitadores.",
-      "activity_frequency": "Discussões semanais, reuniões mensais.",
+      "participation_modes": ["Fóruns", "Grupos de trabalho"],
       "communication_channels": ["Slack", "Zoom", "Email"]
     },
-    "members": {
-      "current_count": 150,
-      "roles": ["Membro regular", "Moderador", "Coordenador"],
-      "profile": ["Nome", "Área de especialização", "Instituição", "País"]
-    },
     "activities": {
-      "types": ["Discussões", "Webinars", "Workshops"],
-      "interaction_tools": [
+      "types_of_activities": ["Discussões", "Webinars", "Workshops"],
+      "frequencies_of_activities": ["Discussões semanais", "reuniões mensais."],
+      "interaction_modes": [
         "Fóruns de discussão",
         "Videoconferências",
         "Chats"
       ],
-      "engagement_mechanisms": ["Gamificação", "Prêmios por participação ativa"]
+      "engagement_strategies": ["Gamificação", "Prêmios por participação ativa"]
     },
     "resources": {
       "shared_types": ["Artigos", "Relatórios", "Apresentações"],
